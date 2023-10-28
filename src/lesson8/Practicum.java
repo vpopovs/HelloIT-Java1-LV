@@ -12,7 +12,7 @@ public class Practicum {
      * @param num skaitlis, kas jāatrod
      */
     public static void findRemove(ArrayList<Integer> list, int num) {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -20,7 +20,7 @@ public class Practicum {
      * @param list saraksts
      */
     public static void symmetric(ArrayList<Integer> list) {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -28,7 +28,7 @@ public class Practicum {
      * @param list lapa
      */
     public static void diffNums(ArrayList<Integer> list) {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -37,7 +37,7 @@ public class Practicum {
      * @param list sākotnējā lapa
      */
     public static void average(ArrayList<Integer> list) {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -47,8 +47,8 @@ public class Practicum {
      * Visi skaitļi ir dažādi.
      * @param list sākotnējā lapa
      */
-    public static void devider(ArrayList<Integer> list) {
-
+    public static void dividends(ArrayList<Integer> list) {
+        // Šeit jābūt programmas kodam
     }
 
     public static void main(String[] args) {
@@ -77,9 +77,9 @@ public class Practicum {
 
         System.out.println("----------");
 
-        devider(new ArrayList<>(Arrays.asList(2, 5, 9, 8)));        // [8]
-        devider(new ArrayList<>(Arrays.asList(7, 19, 13, 8, 4)));   // [8]
-        devider(new ArrayList<>(Arrays.asList(9, 71, 5, 6, 21)));   // []
+        dividends(new ArrayList<>(Arrays.asList(2, 5, 9, 8)));        // [8]
+        dividends(new ArrayList<>(Arrays.asList(7, 19, 13, 8, 4)));   // [8]
+        dividends(new ArrayList<>(Arrays.asList(9, 71, 5, 6, 21)));   // []
 
     }
 

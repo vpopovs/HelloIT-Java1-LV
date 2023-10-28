@@ -9,7 +9,7 @@ public class Homework {
      * @param b otrā rinda
      */
     public static void comboString(String a, String b) {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -18,7 +18,7 @@ public class Homework {
      * @param str sākotnējā rinda
      */
     public static void toStart2(String str) {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -27,7 +27,7 @@ public class Homework {
      * @param str Sākotnējā rinda
      */
     public static void withoutStartEnd(String str) {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -35,7 +35,7 @@ public class Homework {
      * @param str rinda
      */
     public static void carBus(String str) {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -45,7 +45,7 @@ public class Homework {
      * @param n rindas pēdējo simbolu skaits, ko vajag atkārtot tik pat reizes
      */
     public static void repeatEnd(String str, int n) {
-
+        // Šeit jābūt programmas kodam
     }
 
     public static void main(String[] args) {

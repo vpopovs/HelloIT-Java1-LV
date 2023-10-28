@@ -7,7 +7,7 @@ public class Practicum {
      * @param word vārds, kura pusi ir nepieciešams atrast
      */
     public static void half(String word) {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -16,7 +16,7 @@ public class Practicum {
      * @param b otrais vārds
      */
     public static void concatenation(String a, String b) {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -24,7 +24,7 @@ public class Practicum {
      * @param str sākotnējais vārds
      */
     public static void extraEnd(String str) {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -32,7 +32,7 @@ public class Practicum {
      * @param str sākotnējais vārds
      */
     public static void doubleChar(String str) {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -40,7 +40,7 @@ public class Practicum {
      * @param str rinda
      */
     public static void countHi(String str) {
-
+        // Šeit jābūt programmas kodam
     }
 
     public static void main(String[] args) {

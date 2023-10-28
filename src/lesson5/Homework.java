@@ -6,7 +6,7 @@ public class Homework {
      * Izvadīt uz ekrānu skaitļus no 6 līdz 1, izmantojot for un while operatorus.
      */
     public static void sixToOne() {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -14,7 +14,7 @@ public class Homework {
      * Neizvadīt skaitļus, kas nāk pēc 15.
      */
     public static void oddNumbers() {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -22,21 +22,21 @@ public class Homework {
      * Izlaist skaitli 14.
      */
     public static void evenNumbers() {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
      * Izvadīt uz ekrānu sekojošo skaitļu secību: 1 2 4 8 16 32 64 128 256 512.
      */
     public static void row() {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
      * Atrast skaitļu summu intervālā no 1 līdz 30, kas dalās ar 5 vai ar 7.
      */
     public static void sum() {
-
+        // Šeit jābūt programmas kodam
     }
 
     public static void main(String[] args) {
