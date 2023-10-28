@@ -43,7 +43,7 @@ public class Homework {
 
     public static void main(String[] args) {
         ascendingOrder(5, 1, 7);    // 1 5 7
-        ascendingOrder(-2, -7, 12); // -2 -7 12
+        ascendingOrder(-2, -7, 12); // -7 -2 12
         ascendingOrder(3, 6, -6);   // -6 3 6
 
         System.out.println("----------");
