@@ -50,7 +50,7 @@ public class Homework {
 
         quarterOfAnHour(56);    // 4
         quarterOfAnHour(14);    // 1
-        quarterOfAnHour(32);    // 2
+        quarterOfAnHour(32);    // 3
 
         System.out.println("----------");
 
