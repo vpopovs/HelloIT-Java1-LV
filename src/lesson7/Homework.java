@@ -7,7 +7,7 @@ public class Homework {
      * @param array masīvs
      */
     public static void has99(int[] array) {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -15,7 +15,7 @@ public class Homework {
      * @param array masīvs
      */
     public static void sumPositive(int[] array) {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -24,7 +24,7 @@ public class Homework {
      * @param array sākotnējais masīvs
      */
     public static void reverseArray(int[] array) {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -32,14 +32,14 @@ public class Homework {
      * @param array masīvs
      */
     public static void changeMaxMin(int[] array) {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
      * Izveidot jebkādu divdimensiju masīvu un izvadīt to uz konsoli tabulas veidā (sk. prezentāciju).
      */
     public static void twoDimensionalArray() {
-
+        // Šeit jābūt programmas kodam
     }
 
     public static void main(String[] args) {

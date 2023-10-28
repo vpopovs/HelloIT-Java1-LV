@@ -30,6 +30,7 @@ public class Practicum {
      * @param age vecums
      */
     public static void access(int age) {
+        // Šeit jābūt programmas kodam
     }
 
     public static void main(String[] args) {

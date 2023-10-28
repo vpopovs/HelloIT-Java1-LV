@@ -10,7 +10,7 @@ public class Homework {
      * @param list lapa
      */
     public static void oddIndexSum(ArrayList<Integer> list) {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -19,7 +19,7 @@ public class Homework {
      * @param list lapa
      */
     public static void changeOrder(ArrayList<Integer> list) {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -28,7 +28,7 @@ public class Homework {
      * @param list lapa
      */
     public static void shuffle(ArrayList<Integer> list) {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -36,7 +36,7 @@ public class Homework {
      * @param list lapa
      */
     public static void sumWithoutMaxMin(ArrayList<Integer> list) {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -44,7 +44,7 @@ public class Homework {
      * @param list lapa
      */
     public static void ascOrder(ArrayList<Integer> list) {
-
+        // Šeit jābūt programmas kodam
     }
 
     public static void main(String[] args) {

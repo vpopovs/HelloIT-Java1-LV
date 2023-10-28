@@ -8,7 +8,7 @@ public class Homework {
      * Izvadīt uz ekrānu iegūto frāzi.
      */
     public static void reverseWords() {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -16,7 +16,7 @@ public class Homework {
      * Apgriezt ievadīto teikumu un izvadīt rezultātu uz ekrānu. 
      */
     public static void reversePhrase() {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -24,7 +24,7 @@ public class Homework {
      * Atrast un izvadīt uz ekrānu ievadītā skaitļa ciparu summu. 
      */
     public static void numSum() {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -32,7 +32,7 @@ public class Homework {
      * Izvadīt uz ekrānu tos vārdus, kuru garums ir mazāks par vidējo garumu. 
      */
     public static void averageLength() {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -42,6 +42,7 @@ public class Homework {
      */
     public static void guessNum() {
         int num = (int)(Math.random() * ((30 - 1) + 1)) + 1; // Nejaušs skaitlis diapazonā 1-30
+        // Šeit jābūt programmas kodam
     }
 
     public static void main(String[] args) {

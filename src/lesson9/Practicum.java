@@ -7,7 +7,7 @@ public class Practicum {
      * Atrast mazāko no tiem un izvadīt uz ekrānu.
      */
     public static void minNum() {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -15,7 +15,7 @@ public class Practicum {
      * Pārbaudīt, vai vārdā ir atkārtotie burti. 
      */
     public static void repeatedLetters() {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -23,7 +23,7 @@ public class Practicum {
      * Pārbaudīt, vai vārds ir palindroms.
      */
     public static void palindrome() {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -32,7 +32,7 @@ public class Practicum {
      * Mazāko un lielāko skaitļus summā neieskaitīt. 
      */
     public static void betweenMinMax() {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -40,7 +40,7 @@ public class Practicum {
      * Sakārtot tos augošā secībā. 
      */
     public static void sort() {
-
+        // Šeit jābūt programmas kodam
     }
 
     public static void main(String[] args) {

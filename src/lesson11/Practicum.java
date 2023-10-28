@@ -7,7 +7,9 @@ public class Practicum {
     /*
     Ir dots fails ar princesēm princesses.txt (vārds, dzīves statuss, ieslodzījuma vieta, papildus informācija).
     Uzdevums ir: sakārtot princeses pēc dzīves statusa
-    un ierakstīt jaunā failā tikai tās, kuras ir vērts glābt. 
+    un ierakstīt jaunā failā tikai tās, kuras ir vērts glābt.
+
+    Metodes ir dotas ar pareiziem argumentiem un atgriežamiem tipiem.
      */
 
     /**
@@ -47,7 +49,7 @@ public class Practicum {
      *  <Tukša rinda>
      */
     public static void write(String fileToWriteName) {
-
+        // Šeit jābūt programmas kodam
     }
 
     public static void main(String[] args) {

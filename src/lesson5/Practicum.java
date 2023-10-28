@@ -6,35 +6,35 @@ public class Practicum {
      * Izvadīt uz ekrānu skaitļus no 1 līdz 6, izmantojot for un while operatorus.
      */
     public static void oneToSix() {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
      * Izvadīt uz ekrānu reizināšanas tabulu skaitlim 5.
      */
     public static void multiplyByFive() {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
      * Izvadīt uz ekrānu skaitļu summu no 1 līdz 5.
      */
     public static void sumOneToFive() {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
      * Izvadīt uz ekrānu sekojošo secību: 8 15 22 29 36 43 50 57 64 71 78 85 92, izmantojot for un while operatorus.
      */
     public static void row() {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
      * Izvadīt uz ekrānu pāra skaitļu kvadrātus no 10 līdz 20. 
      */
     public static void square() {
-
+        // Šeit jābūt programmas kodam
     }
 
     public static void main(String[] args) {

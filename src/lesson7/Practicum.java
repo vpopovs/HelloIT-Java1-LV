@@ -7,7 +7,7 @@ public class Practicum {
      * @param array masīvs
      */
     public static void countEvens(int[] array) {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -15,7 +15,7 @@ public class Practicum {
      * @param array masīvs
      */
     public static void no25(int[] array) {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -23,7 +23,7 @@ public class Practicum {
      * @param array masīvs
      */
     public static void largestSmallestDiff(int[] array) {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -31,7 +31,7 @@ public class Practicum {
      * @param array masīvs
      */
     public static void either12(int[] array) {
-
+        // Šeit jābūt programmas kodam
     }
 
     /**
@@ -39,7 +39,7 @@ public class Practicum {
      * @param array masīvs
      */
     public static void evenOdd(int[] array) {
-
+        // Šeit jābūt programmas kodam
     }
 
     public static void main(String[] args) {

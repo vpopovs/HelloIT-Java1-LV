@@ -35,7 +35,7 @@ public class Homework {
      * @param personName cilvēka vārds, kas jāatrod
      */
     public static void findInDB(List<String> people, String personName) {
-
+        // Šeit jābūt programmas kodam
     }
 
     public static void main(String[] args) {
