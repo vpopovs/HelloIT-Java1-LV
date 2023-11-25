@@ -54,7 +54,7 @@ public class Practicum {
     public static void main(String[] args) {
 
         findRemove(new ArrayList<>(Arrays.asList(1, 5, 7, 2)), 2);  // [1, 5, 7]
-        findRemove(new ArrayList<>(Arrays.asList(3, 7, 2, 1)), 6);  // Число 6 не найдено
+        findRemove(new ArrayList<>(Arrays.asList(3, 7, 2, 1)), 6);  // Skaitlis 6 nav atrasts
         findRemove(new ArrayList<>(Arrays.asList(1, 8, 5, 3)), 8);  // [1, 5, 3]
 
         System.out.println("----------");
