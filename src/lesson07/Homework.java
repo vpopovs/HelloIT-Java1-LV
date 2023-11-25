@@ -28,7 +28,7 @@ public class Homework {
     }
 
     /**
-     * Samainīt ar vietām maksimālo un miniālo skaitli masīvā. Izvadīt iegūtā masīva elementus uz ekrānu. 
+     * Samainīt ar vietām maksimālo un minimālo skaitli masīvā. Izvadīt iegūtā masīva elementus uz ekrānu. 
      * @param array masīvs
      */
     public static void changeMaxMin(int[] array) {
