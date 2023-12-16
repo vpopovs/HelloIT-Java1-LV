@@ -17,6 +17,7 @@ public class Practicum {
      * @return list ar princesēm
      */
     public static ArrayList<String[]> read() {
+        // Šeit jābūt programmas kodam
         return null;
     }
 
@@ -27,6 +28,7 @@ public class Practicum {
      * @return sakārtots list ar princesēm
      */
     public static ArrayList<String[]> filterByStatus(ArrayList<String[]> princesses) {
+        // Šeit jābūt programmas kodam
         return null;
     }
 
@@ -37,6 +39,7 @@ public class Practicum {
      * @return sakārtots list ar princesēm
      */
     public static ArrayList<String[]> sortByStatus(ArrayList<String[]> filteredPrincesses) {
+        // Šeit jābūt programmas kodam
         return null;
     }
 
