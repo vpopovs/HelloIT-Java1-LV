@@ -12,7 +12,7 @@ public class Homework {
     Aleksandra Matemātika 3
     Dmitrijs   Fizika     5
     Jekaterīna Fizika     3
-    Igors      Fizika     2
+    Igors      Fizika     3
      */
 
 }
