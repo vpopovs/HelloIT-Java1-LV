@@ -42,11 +42,7 @@ public class Practicum {
 
     /**
      * Ierakstīt princeses jaunajā failā 'princesses_to_save.txt' formātā:
-     *  Vārds
-     *  Statuss
-     *  Ieslodzījuma vieta
-     *  Papildus informācija
-     *  <Tukša rinda>
+     *  <Vārds>   <Statuss>   <Ieslodzījuma vieta>   <Papildus informācija>   <Tukša rinda>
      */
     public static void write(String fileToWriteName) {
         // Šeit jābūt programmas kodam
